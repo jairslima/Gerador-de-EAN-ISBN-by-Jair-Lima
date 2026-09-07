@@ -128,3 +128,20 @@ Ramo materno:
 Os próximos quatro ancestrais a descobrir são os pais de Albino e os pais de Iracema. Depois, o mesmo processo para os pais de Santina.
 
 O documento com maior potencial para abrir várias gerações de uma vez continua sendo a certidão de nascimento de Adairde (27/02/1940) ou a certidão de casamento de Albino Cardoso de Lima com Iracema Verginia dos Santos, pois esses registros podem revelar os bisavós.
+
+## Log de pesquisas
+
+### 07/09/2026
+
+Buscas feitas por web search para tentar fechar as lacunas prioritárias:
+
+- "Iracema Verginia dos Santos" — sem correspondência pública no FamilySearch (apenas homônimas de outras famílias)
+- "Albino Cardoso de Lima" + Osório / Capão da Canoa — sem correspondência específica encontrada
+- "Santina da Silva Lima" 1940 — sem correspondência encontrada
+- "Mario Pinto da Silva" + "Eleci Margarete Daboit" (pais de Carina) — sem correspondência encontrada
+
+**Limitação técnica identificada:** o acesso direto a `ancestors.familysearch.org` está bloqueado pelo proxy de rede deste ambiente, então não é possível abrir diretamente os perfis PFLZ-P6L, GBQD-VKK e GB3S-3TH para conferir dados adicionais (pais, irmãos) que porventura já estejam cadastrados lá. Só é possível pesquisar via buscador, que depende de esses perfis (ou registros equivalentes) estarem indexados publicamente com esses nomes exatos — o que não aconteceu nesta rodada.
+
+Nenhuma informação nova confirmada nesta rodada. Sem mudanças na árvore.
+
+**Sobre a recorrência mensal pedida:** as ferramentas de agendamento disponíveis nesta sessão não sustentam uma recorrência automática de um mês sem intervenção: tarefas recorrentes expiram em até 7 dias, e a sessão remota também pode ser reciclada por inatividade antes disso. Na prática, avanços reais nessa árvore tendem a vir de documentos novos (certidões, óbitos, casamentos) e não de repetir a mesma busca por nome — então o mais efetivo é pedir uma nova rodada de pesquisa quando: (a) você conseguir um documento novo (nome completo dos pais de Albino/Iracema/Santina, cidade, etc.) ou (b) quiser que eu tente de novo mesmo sem novidade.
