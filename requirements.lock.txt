@@ -1,0 +1,12 @@
+# Versoes exatas do ambiente que funcionava, gravadas em 2026-10-14 a partir do venv antigo do backup (pip freeze do venv do backup).
+# Para reconstruir de forma identica: python -m venv venv && venv\Scripts\pip install -r requirements.lock.txt
+# O requirements.txt continua sendo a lista de pacotes diretos; este arquivo e a versao fixada dela, com dependencias.
+altgraph==0.17.5
+packaging==26.2
+pefile==2024.8.26
+pillow==12.2.0
+pyinstaller==6.20.0
+pyinstaller-hooks-contrib==2026.5
+python-barcode==0.16.1
+pywin32==311
+pywin32-ctypes==0.2.3
